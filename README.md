@@ -14,7 +14,7 @@ My name is Kaylee and I'm a computer science student from Australia. Here's some
 
 🔭 Currently working on:
 
-Simulation of solar system (Rust/ThreeJS).
+- Simulation of solar system (Rust/ThreeJS).
 
 🌱 Interests:
 
