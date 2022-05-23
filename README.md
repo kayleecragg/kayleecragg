@@ -5,11 +5,13 @@ My name is Kaylee and I'm a computer science student from Australia. Here's some
 
 ⚡ Work experience:
 
-Incoming Associate Software Test Engineer at Visa Singapore. [Singapore. 2023]
-Incoming Live Operations Coordinator at Stan Sport. [Remote. Winter 2022]
-Associate Producer at Nine 9Now Operations & Programming. [Remote. Jan 22 - Present]
-Presentation Coordinator at Telstra Broadcast Services. [Sydney, NSW. Sep 21 - Jan 22]
-Live Operations Coordinator at Stan Sport. [Sydney, NSW. Winter 2021]
+- Incoming Associate Software Test Engineer at Visa Singapore. [Singapore. 2023]
+- Incoming Live Operations Coordinator at Stan Sport. [Remote. Winter 2022]
+- Associate Producer at Nine 9Now Operations & Programming. [Remote. Jan 22 - Present]
+- Presentation Coordinator at Telstra Broadcast Services. [Sydney, NSW. Sep 21 - Jan 22]
+- Live Operations Coordinator at Stan Sport. [Sydney, NSW. Winter 2021]
+
+
 🔭 Currently working on:
 
 Simulation of solar system (Rust/ThreeJS).
