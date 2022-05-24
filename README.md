@@ -19,7 +19,7 @@ My name is Kaylee and I'm a computer science student from Australia. Here's some
 🌱 Interests:
 
 - Automation and Machine Learning.
-- Astronomy. 
+- Astronomy and Astrophysics.
 
 💬 Reach me by email, discord or LinkedIn! kayleeanncragg@gmail.com | kaylee#1111 | www.linkedin.com/in/kayleecragg
 
