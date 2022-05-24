@@ -19,8 +19,6 @@ My name is Kaylee and I'm a computer science student from Australia. Here's some
 
 - Automation and Machine Learning.
 - Astronomy. 
-- Creating content (YouTube/Twitch). 
-
 
 💬 Reach me by email, discord or LinkedIn! kayleeanncragg@gmail.com | kaylee#1111 | www.linkedin.com/in/kayleecragg
 
