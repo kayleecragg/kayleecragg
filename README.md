@@ -13,9 +13,8 @@ My name is Kaylee and I'm a computer science student from Australia. Here's some
 🌱 Interests:
 
 - Automation and Machine Learning.
-- Astronomy and Astrophysics.
 
-💬 Reach me by email, discord or LinkedIn! kayleeanncragg@gmail.com | kaylee#0495 | www.linkedin.com/in/kayleecragg
+💬 Reach me by email, discord or LinkedIn! kayleeanncragg08@gmail.com | kaylee#0495 | www.linkedin.com/in/kayleecragg
 
 <!--
 **kayleecragg/kayleecragg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
