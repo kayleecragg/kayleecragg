@@ -3,6 +3,10 @@
 
 My name is Kaylee and I'm a computer science student from Australia. Here's some info about me!
 
+⚡ Work experience:
+
+Incoming Cloud & Engineering intern at Deloitte - Full-stack development on the Release Engineering team. [Melbourne. Summer 2023]
+
 🌱 Interests:
 
 - Automation and Machine Learning.
