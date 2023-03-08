@@ -1,17 +1,7 @@
 ### Hi there 👋
 
 
-My name is Kaylee and I'm a computer science student from Australia. Here's some info about me!
-
-⚡ Work experience:
-
-Incoming Cloud & Engineering intern at Deloitte - [Melbourne. Summer 2023]
-
-🌱 Interests:
-
-- Automation and Machine Learning.
-
-💬 Reach me by email, or discord! kayleeanncragg08@gmail.com | kaylee#0495 
+My name is Kaylee and I'm a computer science student from Australia.
 
 <!--
 **kayleecragg/kayleecragg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
