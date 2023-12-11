@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My name is Kaylee and I'm a computer science student from Australia.Here's some info about me!
+My name is Kaylee and I'm a computer science student from Australia. Here's some info about me!
 
 ⚡ Work experience: <br>
 - **Cloud Engineer intern at Deloitte** - Full-stack development on the Release Engineering team. [Sydney. Summer 2023/2024]
