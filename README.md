@@ -5,6 +5,7 @@ My name is Kaylee and I'm a computer science student from Australia. Here's some
 
 ⚡ Work experience: <br>
 - **Cloud Engineer intern at Deloitte** - Development on the Platform and Product Engineering team. [Sydney. Summer 2023/2024]
+- **Live Operation Assistant at Stan** - Live Operations [Sydney. 2022-Present]
 
 💬 Reach me by email or LinkedIn! kayleeanncragg@gmail.com | www.linkedin.com/in/kayleecragg
 
