@@ -4,12 +4,12 @@
 My name is Kaylee and I'm a computer science student from Australia. Here's some info about me!
 
 ⚡ Work experience: <br>
-- **Customer Engineer intern at Google** - Development on the Google Cloud Team. [Singapore. Summer 2024]
-- **Cloud Engineer intern at Deloitte** - Development on the Platform and Product Engineering team. [Sydney. Summer 2023/2024]
+- **Customer Engineer Intern at Google** - Development on the Google Cloud Team. [Singapore. Summer 2024]
+- **Cloud Engineer Intern at Deloitte** - Development on the Platform and Product Engineering team within the Core Business Unit. [Sydney. Summer 2023/2024]
 - **Live Operation Assistant at Stan** - Live Operations [Sydney. 2022-Present]
 <br>
-📫 Visit my website that is severely outdated: https://kayleecragg.github.io/
-💬 Reach me by email or LinkedIn! kayleeanncragg@gmail.com | www.linkedin.com/in/kayleecragg
+- 📫 Visit my website that is severely outdated: https://kayleecragg.github.io/
+- 💬 Reach me by email or LinkedIn! kayleeanncragg@gmail.com | www.linkedin.com/in/kayleecragg
 
 <!--
 📫 Visit my website that is severely outdated: https://kayleecragg.github.io/
