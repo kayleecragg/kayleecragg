@@ -10,7 +10,7 @@ My name is Kaylee and I'm a computer science student from Australia. Here's some
 <br>
 📫 Visit my website that is severely outdated: https://kayleecragg.github.io/
 <br>
-- 💬 Reach me by email or LinkedIn! kayleeanncragg@gmail.com | www.linkedin.com/in/kayleecragg
+💬 Reach me by email or LinkedIn! kayleeanncragg@gmail.com | www.linkedin.com/in/kayleecragg
 
 <!--
 📫 Visit my website that is severely outdated: https://kayleecragg.github.io/
