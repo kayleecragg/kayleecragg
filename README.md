@@ -1,7 +1,6 @@
 ## Hi, I'm Kaylee!
 
 I'm studying **Computer Science at the University of New South Wales**
-- 😄 Pronouns: she/her
 - 💻 Work experience:
   - Incoming DSP Software Engineer Intern @ Dolby
   - Customer Engineer Intern (Google Cloud) @ Google
