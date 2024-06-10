@@ -1,15 +1,16 @@
-### Hi there 👋
+## Hi, I'm Kaylee!
 
+I'm studying **Computer Science at the University of New South Wales**
+- 😄 Pronouns: she/her
+- 💻 Work experience:
+  - Incoming Software Engineer Intern @ Dolby
+  - Customer Engineer Intern (Google Cloud) @ Google
+  - Cloud Engineer Intern @ Deloitte
+- 💬 Talk to me about: Coffee, Cats, and TFT Esports
+- 📫 Find me on: [LinkedIn](https://linkedin.com/in/kayleecragg) | [Email](mailto:kayleeanncragg@gmail.com)
 
-My name is Kaylee and I'm a computer science student from Australia. Here's some info about me!
+**I'm currently seeking a Summer 2025 internship!** Feel free to reach out to me about any opportunities! 
 
-⚡ Work experience: <br>
-- **Customer Engineer Intern at Google** - Development on the Google Cloud Team. [Singapore. Summer 2024]
-- **Cloud Engineer Intern at Deloitte** - Development on the Platform and Product Engineering team. [Sydney. Summer 2023/2024]
-<br>
-📫 Visit my website that is severely outdated: https://kayleecragg.github.io/
-<br>
-💬 Reach me by email or LinkedIn! kayleeanncragg@gmail.com | www.linkedin.com/in/kayleecragg
 
 <!--
 📫 Visit my website that is severely outdated: https://kayleecragg.github.io/
