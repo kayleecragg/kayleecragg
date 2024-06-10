@@ -3,7 +3,7 @@
 I'm studying **Computer Science at the University of New South Wales**
 - 😄 Pronouns: she/her
 - 💻 Work experience:
-  - Incoming Software Engineer Intern @ Dolby
+  - Incoming DSP Software Engineer Intern @ Dolby
   - Customer Engineer Intern (Google Cloud) @ Google
   - Cloud Engineer Intern @ Deloitte
 - 💬 Talk to me about: Coffee, Cats, and TFT Esports
