@@ -6,7 +6,7 @@ I'm studying **Computer Science at the University of New South Wales**
   - Incoming DSP Software Engineer Intern @ Dolby
   - Customer Engineer Intern (Google Cloud) @ Google
   - Cloud Engineer Intern @ Deloitte
-- 💬 Talk to me about: Coffee, Cats, and TFT Esports
+- 💬 Talk to me about: Kdramas, Cats, and TFT Esports
 - 📫 Find me on: [LinkedIn](https://linkedin.com/in/kayleecragg) | [Email](mailto:kayleeanncragg@gmail.com)
 
 **I'm currently seeking a Summer 2025 internship!** Feel free to reach out to me about any opportunities! 
