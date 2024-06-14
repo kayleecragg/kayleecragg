@@ -2,12 +2,10 @@
 
 I'm studying **Computer Science at the University of New South Wales**
 - 💻 Work experience:
-  - Incoming DSP Software Engineer Intern @ Dolby
   - Customer Engineer Intern (Google Cloud) @ Google
   - Cloud Engineer Intern @ Deloitte
 - 📫 Find me on: [LinkedIn](https://linkedin.com/in/kayleecragg) | [Email](mailto:kayleeanncragg@gmail.com)
 
-**I'm currently seeking a Summer 2025 internship!** Feel free to reach out to me about any opportunities! 
 
 
 <!--
