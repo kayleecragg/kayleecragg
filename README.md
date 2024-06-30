@@ -4,6 +4,8 @@ I'm studying **Computer Science at the University of New South Wales**
 - 💻 Work experience:
   - Customer Engineer Intern (Google Cloud) @ Google
   - Cloud Engineer Intern @ Deloitte
+  - Live Operations Assistant @ Stan
+
 - 📫 Find me on: [LinkedIn](https://linkedin.com/in/kayleecragg) | [Email](mailto:kayleeanncragg@gmail.com)
 
 
